@@ -1,0 +1,25 @@
+W-5482926	Jamrowicz	Drucy	662 Bunker Hill Crossing	Baltasar Brum	AB	R1Q-6K7	236-788-3975	F	27	2	sales	N	74.98
+W-3608241	Allery	Clark	4 Nova Way	Xazgat	ON	F4N-2D8	468-232-6523	M	58	73	sales	Y	59.02
+W-9465437	Narramor	Boycie	80 Paget Avenue	Kalahang	QC	R6P-3F0	774-769-6385	M	85	68	factory	N	84.42
+W-0439318	Maskrey	Berenice	59 Pine View Pass	Kampen (Overijssel)	NT	D3V-1F0	431-185-1860	F	87	26	sales	N	93.56
+W-0760825	Coggell	Cissy	5 Ridgeway Road	Xingang	BC	L7H-6A6	947-418-5540	F	48	48	sales	N	44.75
+W-4573860	Mauditt	Ricca	4 Porter Center	Chengshan	BC	V3E-1J0	545-877-2856	F	75	57	sales	Y	90.4
+W-4245019	Ingleton	Kath	01 Dapin Way	Sabanalarga	YT	Z0W-4M4	133-580-2266	F	60	67	factory	N	40.33
+W-1876166	Coggan	Phillipe	8 School Street	Insua	ON	D4D-8X1	570-485-8404	M	47	74	office	Y	96.01
+W-3976111	McGreal	Gavan	3876 American Terrace	Laveiras	YT	I2Q-1V8	846-762-3631	M	21	36	sales	Y	44.41
+W-4286303	Bradmore	Belicia	52580 Cordelia Terrace	Yudai	PE	T2W-8Q6	616-104-0137	F	53	23	sales	N	47.27
+W-0701507	Lott	Dougie	15 Kinsman Way	Umm as Sāhik	NB	D0Z-5D7	820-988-0445	M	87	70	factory	Y	21.04
+W-2512956	Gue	Paige	3 Alpine Drive	Maticmatic	BC	C8T-7S3	327-687-9331	F	64	54	office	N	98.27
+W-6634720	Corsan	Demetra	0 Fulton Circle	Aguadulce	SK	L8X-6E9	525-687-4640	F	15	11	sales	Y	44.72
+W-3856484	Gomm	Kerianne	179 Vernon Street	Posadas	NS	M2B-3S3	350-270-3623	F	17	52	sales	Y	71.52
+W-8310379	Lawson	Van	79 Katie Center	Anding	MB	J2V-8H7	743-748-3490	M	7	64	sales	N	5.22
+W-1218771	Heningam	Alano	341 3rd Terrace	Vila Nova de Milfontes	PE	N0H-9K8	164-395-8837	M	32	19	sales	Y	53.67
+W-1355471	Shallcross	Neely	587 Mcbride Crossing	Sacramento	NB	Q3L-6Q7	916-352-8896	F	33	27	factory	Y	98.83
+W-4727345	Hannaford	Garrett	99795 Harper Circle	Xiaoduchuan	QC	S9T-4P8	468-493-7860	M	41	41	sales	Y	78.84
+W-2691956	Nineham	Tish	14 Sheridan Plaza	Aydūn	PE	I5G-6J9	398-126-8085	F	87	3	factory	Y	21.98
+W-5658524	Grouer	Jami	0044 Bluestem Way	Salakuray	SK	A9X-0O2	727-292-6888	F	55	13	factory	Y	88.66
+W-2615198	Schaumaker	Sheffy	11 Mockingbird Junction	Libertador General San Martín	SK	F8W-9T6	977-378-8173	M	67	65	factory	N	66.92
+W-9484304	Drayson	North	78403 Jana Crossing	Třinec	NT	F5U-7C4	164-191-4280	M	5	83	factory	Y	61.1
+W-0844572	Pattisson	Alexi	8 Sachs Pass	Garça	YT	C0O-3T6	720-557-6678	F	82	37	factory	Y	19.09
+W-8299615	Noller	Nealon	2902 Debs Junction	Căuşeni	SK	J9G-1Y3	894-235-1968	M	48	98	office	Y	66.48
+W-5557287	Brayley	Benita	55 Judy Road	Broshniv-Osada	MB	Q4X-0H2	432-798-2300	F	65	87	sales	N	9.93
